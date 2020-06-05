@@ -86,7 +86,7 @@
                 <div class="title m-b-md">
                     Git
                 </div>
-
+                
                 <div class="links">
                     <a href="https://laravel.com">Laravel page</a>
                 </div>
